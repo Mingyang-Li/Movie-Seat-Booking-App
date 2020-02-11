@@ -1,1 +1,1 @@
-# Movie-Seat-Booking-App
+# Movie-Seat-Booking-App using vanilla JavaScript
